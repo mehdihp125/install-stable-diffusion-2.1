@@ -5,7 +5,7 @@ The minimum requirements listed above are to ensure that the software can run sm
 
 ----------------------------------------------------
 # How to install
-✅ 1. Download the model file
+✅ Download the model file
 
 Stable Diffusion v2.1 (768)
 
@@ -16,11 +16,21 @@ Stable Diffusion v2.1 (768)
 1.3 Put both of them in the model directory: stable-diffusion-webui/models/Stable-diffusion
 
 
+Stable Diffusion v2.1 (512-base)
+
+1.1 Download the model file - [Download](http://dlgram.com/XS1fO1)
+
+1.2 Download the config file, and rename it to v2-1_512-ema-pruned.yaml - [Download](http://dlgram.com/b6hISOgU)
+
+1.3 Put both of them in the model directory: stable-diffusion-webui/models/Stable-diffusion
 
 
+----------------------------------------------------------------------------------
 
+# How to use
 
-
+- in the Stable Diffusion checkpoint dropdown menu on top left.
+select v2-1_512-ema-pruned.ckpt or v2-1_768-ema-pruned.ckpt
 
 
 
